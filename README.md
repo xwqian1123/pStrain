@@ -5,13 +5,15 @@
 pStrain has the following dependencies:
 
 #### Required dependencies
- - kraken
- - Trimmomatic 
- - Samtools
- - BWA
- - BCFTOOLS
+ - Kraken 2.0.9-beta
+ - Trimmomatic 0.39
+ - Samtools 1.9 
+ - BWA 0.7.12-r1039
+ - BCFTOOLS 1.9 
  - PICARD
- - ggtree 
+ - ggtree 2.0.4
+ - ggplot2 3.3.1
+
 
 There are a way to install pStrain and details are provided below. 
 ````
